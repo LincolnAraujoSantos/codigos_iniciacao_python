@@ -1,13 +1,9 @@
 #Começando nossa ferramenta
 usuarios={}
-opcao=input("O que deseja realizar?
-" +
-            "<I> - Para Inserir um usuário
-"+
-            "<P> - Para Pesquisar um usuário
-"+
-            "<E> - Para Excluir um usuário
-"+
+opcao=input("O que deseja realizar?\n" +
+            "<I> - Para inserir um novo usuário\n" +
+            "<P>  - Para Pesquisar um usuário\n" +
+            "<E> - Para Excluir um usuário\n" +
             "<L> - Para Listar um usuário: ").upper()
 while opcao=="I" or opcao=="P" or opcao=="E" or opcao=="L":
     if opcao=="I":
@@ -16,12 +12,8 @@ while opcao=="I" or opcao=="P" or opcao=="E" or opcao=="L":
         data=input("Digite a última data de acesso: ")
         estacao=input("Qual a última estação acessada: ").upper()
         usuarios[chave]=[nome, data, estacao]
-    opcao = input("O que deseja realizar?
-" +
-                  "<I> - Para Inserir um usuário
-" +
-                  "<P> - Para Pesquisar um usuário
-" +
-                  "<E> - Para Excluir um usuário
-" +
-                  "<L> - Para Listar um usuário: ").upper()
+    opcao=input("O que deseja realizar?\n" +
+            "<I> - Para inserir um novo usuário\n" +
+            "<P>  - Para Pesquisar um usuário\n" +
+            "<E> - Para Excluir um usuário\n" +
+            "<L> - Para Listar um usuário: ").upper()
