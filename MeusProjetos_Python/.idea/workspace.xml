@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -22,7 +23,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Capitulo3_Funcoes/IdentificacaoDeFuncoes.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Capitulo3_Listas/ModuloPrincipal.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo5_Manipulacao_Arquivos_JSON/Manipula_Arquivos/Inventario_ChamandoFuncoes.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,25 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pichau/PycharmProjects/Repositorios GitHub&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "ToolWindowRun.ShowToolbar": "false",
+    "last_opened_file_path": "C:/Users/Pichau/PycharmProjects/MeusProjetos_Python/Capitulo5_Manipulacao_Arquivos_JSON/Funcoes",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Capitulo5_Manipulacao_Arquivos_JSON\Funcoes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Funcoesss" />
+      <recent name="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Capitulo5_Manipulacao_Arquivos_JSON\Funcoes" />
+      <recent name="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Capitulo5_Manipulacao_Arquivos_JSON\Manipula_Arquivossd" />
+      <recent name="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Capitulo4_Dicionarios" />
       <recent name="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Capitulo3_Funcoes" />
-      <recent name="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Capitulo3-Listas" />
-      <recent name="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Capitulo3-Funcoes" />
-      <recent name="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Capitulo3 - Package_Funcoes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ModuloPrincipal (1)">
-    <configuration name="IdentificacaoDeFuncoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Inventario_ChamandoFuncoes">
+    <configuration name="Funcoes_Arquivos (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MeusProjetos_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulo3-Funcoes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Funcoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Capitulo3_Funcoes\IdentificacaoDeFuncoes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funcoes/Funcoes_Arquivos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListasDentroDeListas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Funcoes_Arquivos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MeusProjetos_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulo3-Listas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulo5_Manipulacao_Arquivos_JSON/Funcoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulo3-Listas/ListasDentroDeListas.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Pichau\PycharmProjects\MeusProjetos_Python\Funcoesss\Funcoes_Arquivos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ModuloPrincipal (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Inventario (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MeusProjetos_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulo3_Listas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulo5_Manipulacao_Arquivos_JSON/Manipula_Arquivos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulo3_Listas/ModuloPrincipal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulo5_Manipulacao_Arquivos_JSON/Manipula_Arquivos/Inventario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ModuloPrincipal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Inventario_ChamandoFuncoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MeusProjetos_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulo3-Listas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulo5_Manipulacao_Arquivos_JSON/Manipula_Arquivos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulo3-Listas/ModuloPrincipal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulo5_Manipulacao_Arquivos_JSON/Manipula_Arquivos/Inventario_ChamandoFuncoes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MultiplasListas_ComIndice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ManagerUsers_chamandoFuncoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MeusProjetos_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulo3_Listas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capitulo4_DicionariosDadosETuplas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulo3_Listas/MultiplasListas_ComIndice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Capitulo4_DicionariosDadosETuplas/ManagerUsers_chamandoFuncoes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ModuloPrincipal (1)" />
-        <item itemvalue="Python.MultiplasListas_ComIndice (1)" />
-        <item itemvalue="Python.ListasDentroDeListas" />
-        <item itemvalue="Python.ModuloPrincipal" />
-        <item itemvalue="Python.IdentificacaoDeFuncoes" />
+        <item itemvalue="Python.Inventario_ChamandoFuncoes" />
+        <item itemvalue="Python.Funcoes_Arquivos (1)" />
+        <item itemvalue="Python.Inventario (1)" />
+        <item itemvalue="Python.Funcoes_Arquivos" />
+        <item itemvalue="Python.ManagerUsers_chamandoFuncoes" />
       </list>
     </recent_temporary>
   </component>
