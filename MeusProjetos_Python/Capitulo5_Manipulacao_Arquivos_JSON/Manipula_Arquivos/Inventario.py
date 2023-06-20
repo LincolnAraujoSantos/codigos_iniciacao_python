@@ -15,7 +15,7 @@ while opcao>0 and opcao<4:
     elif opcao==2:
         with open("Inventario.csv", "a") as inv:
             for chave, valor in inventario.items():
-                inv.write(chave+";"+valor[0]+";" + valor[1] + ";" + valor[2]+"")
+                inv.write(chave+";"+valor[0]+";" + valor[1] + ";" + valor[2]+"\n")
                 print("Persistido com sucesso!")
     elif opcao == 3:
         with open("Inventario.csv", "r") as inv:
