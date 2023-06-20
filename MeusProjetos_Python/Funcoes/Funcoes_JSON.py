@@ -7,7 +7,7 @@ def chamarMenu():
                         "<2>PARA EXIBIR ATIVOS ARMAZENADOS:\n"))
     return escolha
 
-def ler_arquivo(arquivo)
+def ler_arquivo(arquivo):
     if os.path.exists(arquivo):
         with open(arquivo, "r") as arq_json:
             dicionario=json.load(arq_json)
@@ -21,7 +21,7 @@ def gravar_arquivo(dicionario,arquivo):
 
 def registrar(dicionario,arquivo):
     resp = "S"
-    while resp = "S":
+    while resp =="S":
         dicionario[input("Digite o número patrimonial: ")] = [
             input("Digite a data da última atualização: "),
             input("Digite a descrição: "), input("Digite o departamento: ")]
