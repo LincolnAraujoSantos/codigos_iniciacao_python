@@ -11,7 +11,7 @@ while opcao>0 and opcao<4:
 
         # METODO FIND()
         for linha in resultdo:
-            #separacao = linha[linha.find(";")+1:-1]
+            separacao = linha[linha.find(";")+1:-1]
             #data = separacao[0:separacao.find(";")]
             #separacao = separacao[separacao.find(";")+1:-1]
             #descricao = separacao[0:separacao.find(";")]
